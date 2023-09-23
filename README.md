@@ -6,7 +6,7 @@ The dashboard shows Saudi Arabia’s Ranks in different categories (Economic, Oi
 The reason behind starting the data in 2016 is the announcement of Saudi Vision 2030. However, the data ends in 2022 since the ranks around the
 world announce at the end of the year. Therefore, we will focus on showing the improvement.      
     - Project Team  
-      Atheer Almutairi (me)
+      Atheer Almutairi (me)  
       Hessah Alqahtani([@HessahalQahtani](https://github.com/HessahalQahtani))
       
 2. *Project Steps*
